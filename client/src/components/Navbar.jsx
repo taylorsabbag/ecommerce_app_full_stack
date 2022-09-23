@@ -12,7 +12,7 @@ const Navbar = () => {
           />
         </a>
         <form action="search">
-            <input type="text" placeholder="Search TODO with button" />
+            <input type="text" placeholder="Search TODO with button" name="search" />
             <button type="submit">Search</button>
         </form>
         <ul>
