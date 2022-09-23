@@ -22,7 +22,7 @@ function App() {
         </ul>
       </nav>
       <h1>How are you <i>feeling</i> <u>today?</u></h1>
-      <p>Let's go ahead and get fucked</p>
+      <p>Let's go ahead and have fun</p>
       <br />
       <p>
         <a href="#">
